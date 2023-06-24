@@ -12,7 +12,9 @@ Step:
 
 3 => Then run python3 or python encrypt.py
 
-4 => And enter the name of the file with its extension (ex: 'example.txt')
+4 => And enter the name of the file with its extension (ex:
+'example.txt','sample.mp4','song.mp3','sample.bin')
+
 
 
 5 => And wait until it finishes the process because it will get sometime to encrypt.And when it's done enjoy the encrypted file which can never be decrypted.
