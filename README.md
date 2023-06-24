@@ -13,7 +13,7 @@ Step:
 3 => Then run python3 or python encrypt.py
 
 4 => And enter the name of the file with its extension (ex:
-'example.txt','sample.mp4','song.mp3','sample.bin')
+'example.txt', 'sample.mp4', 'song.mp3', '  sample.bin')
 
 
 
